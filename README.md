@@ -90,6 +90,7 @@ photo_club
 ├── list_events.php
 ├── edit_event.php
 ├── delete_event.php
+├── photo_club_db.sql
 ├── screenshots
 │   ├── ana_sayfa.png
 │   ├── login.png
